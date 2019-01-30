@@ -3,7 +3,6 @@ import os
 import re
 import sys
 
-
 def read_env():
     """
     See https://wellfire.co/learn/easier-12-factor-django/
